@@ -485,6 +485,7 @@
 
 	.team-member:hover .team-image .team-desc {
 		bottom: 5px;
+		margin-bottom: -100px;
 	}
 
 	.team-member .team-image .team-desc .list-info {

@@ -482,7 +482,7 @@
 .team-member .team-image {
     margin-bottom: 34px;
     overflow: hidden;
-    position: relative;
+    position:relative;
     z-index: 9;
 }
 
@@ -535,7 +535,7 @@
 .team-member .team-info .name {
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: 8px;
+    margin-bottom: 50px;
 }
 
 .team-member .team-info .name a:not(:hover) {
