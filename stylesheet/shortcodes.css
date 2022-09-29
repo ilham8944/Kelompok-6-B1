@@ -731,7 +731,7 @@
     width: 120px;
     line-height: 120px;
     text-align: center;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     border-radius: 50%;
     display: inline-block;
     margin-bottom: 37px;
@@ -858,7 +858,7 @@
     width: 70px;
     text-align: center;
     line-height: 70px;
-    background-color: #f1a619;
+    background-color: white;
     border-radius: 50%;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
